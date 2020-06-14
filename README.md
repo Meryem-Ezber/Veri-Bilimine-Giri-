@@ -1,2 +1,2 @@
-# Veri-Bilimine-Giri-
+# Veri-Bilimine-Giris
 Veri Bilimine Giriş Dersi 
